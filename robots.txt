@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hal5000-openclaw.github.io/paylink/sitemap.xml
